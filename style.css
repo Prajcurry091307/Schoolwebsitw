@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.announcement{
+    color: firebrick;
+    font-size: 30px
+}
+.page-header{
+    text-align: left
+}
+#map{
+     text-align: left
+}
+#details{
+    font-size: 20px;
+}
+.achievment_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.achievment_head i {
+    float: right;
+}
+
+.achievment span {
+    color: #f70;
+    }
+.academics_li {
+    margin-top: 13px;
+}
+.academics h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+academics img{
+    border-radius: 25px;
+}
+academics p{
+    margin-top: 10px;
+}
+#css, #nextgen{
+    background-color:#dee1ff;
+}
